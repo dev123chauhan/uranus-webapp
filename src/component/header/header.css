@@ -1,0 +1,8 @@
+.navbar-toggler-icon{
+    background-color: white !important;
+}
+@media(max-width:992px){
+.button{
+    display: none;
+}
+}
